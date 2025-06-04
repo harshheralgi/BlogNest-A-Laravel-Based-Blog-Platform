@@ -1,3 +1,28 @@
+# 🪺 BlogNest
+
+> A clean and simple Laravel-based blogging platform with a Backpack-powered admin panel. Create, manage, and share inspiring blog posts with ease.
+
+---
+
+## 🚀 Features
+
+- 📝 Dynamic blog post creation and editing
+- 🧑‍💼 Backpack admin panel for content management
+- 🌐 Responsive and modern frontend UI
+- 🔍 Post previews with “Read More” links
+- 🔒 Admin authentication
+- 📅 Posts sorted by latest
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework**: Laravel 
+- **Admin Panel**: Backpack for Laravel
+- **Database**: MySQL
+- **Frontend**: HTML, CSS, JS
+- **Server**: Apache (XAMPP)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
